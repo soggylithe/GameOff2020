@@ -2,3 +2,4 @@
 * text=auto
 
 # LFS settings
+# *.jpg filter=lfs
